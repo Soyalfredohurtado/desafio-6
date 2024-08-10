@@ -1,5 +1,5 @@
 
-*{
+*, p, h1, h2, h3, span, li{
     font-family: "Roboto", sans-serif;
     font-weight: 300;
     font-style: normal;
@@ -26,12 +26,14 @@
 
 
 .img-portafolio{
-    width: 200px;
     max-width: 100%;
 
 }
 
 .card-img-portafolio{
-
     padding: 10px;
+}
+
+footer{
+    background-color: rgb(204, 204, 204);
 }
